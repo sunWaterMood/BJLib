@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BJLib_Tests' do
+  pod 'BJLib', :path => '../'
+  
+  
+end
